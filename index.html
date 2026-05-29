@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Finance Dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#app-main">Skip to content</a>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="Primary navigation">
+        <div class="brand" aria-label="Finance">
+          <span class="brand-mark">f</span>
+          <span class="brand-text">finance</span>
+        </div>
+        <nav class="nav-list" id="desktop-nav"></nav>
+        <button class="minimize-btn" id="minimize-sidebar" type="button" aria-label="Minimize menu">
+          <span aria-hidden="true">◐</span>
+          <span>Minimize Menu</span>
+        </button>
+      </aside>
+
+      <main class="main-content" id="app-main" tabindex="-1">
+        <header class="mobile-header">
+          <div class="brand" aria-label="Finance">
+            <span class="brand-mark">f</span>
+            <span class="brand-text">finance</span>
+          </div>
+        </header>
+        <section class="page" id="page-root" aria-live="polite"></section>
+      </main>
+
+      <nav class="bottom-nav" id="mobile-nav" aria-label="Mobile navigation"></nav>
+    </div>
+
+    <div class="toast-region" id="toast-region" aria-live="polite" aria-atomic="true"></div>
+    <div class="modal-layer" id="modal-layer" aria-hidden="true"></div>
+
+    <script src="js/script.js"></script>
+  </body>
+</html>

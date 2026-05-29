@@ -1,0 +1,255 @@
+{
+  "balance": {
+    "current": 4836.0,
+    "income": 3814.25,
+    "expenses": 1700.5
+  },
+  "transactions": [
+    {
+      "avatar": "./assets/emma-richardson.svg",
+      "name": "Emma Richardson",
+      "category": "General",
+      "date": "2026-05-19T14:23:11Z",
+      "amount": 75.5,
+      "recurring": false
+    },
+    {
+      "avatar": "./assets/savory-bites.svg",
+      "name": "Savory Bites Bistro",
+      "category": "Dining Out",
+      "date": "2026-05-19T20:23:11Z",
+      "amount": -55.5,
+      "recurring": false
+    },
+    {
+      "avatar": "./assets/daniel-carter.svg",
+      "name": "Daniel Carter",
+      "category": "General",
+      "date": "2026-05-18T09:45:32Z",
+      "amount": -42.3,
+      "recurring": false
+    },
+    {
+      "avatar": "./assets/sun-park.svg",
+      "name": "Sun Park",
+      "category": "General",
+      "date": "2026-05-17T16:12:05Z",
+      "amount": 120.0,
+      "recurring": false
+    },
+    {
+      "avatar": "./assets/urban-services.svg",
+      "name": "Urban Services Hub",
+      "category": "Bills",
+      "date": "2026-05-17T06:18:24Z",
+      "amount": -65.0,
+      "recurring": false
+    },
+    {
+      "avatar": "./assets/green-plate.svg",
+      "name": "The Green Plate",
+      "category": "Dining Out",
+      "date": "2026-05-16T19:34:41Z",
+      "amount": -18.75,
+      "recurring": false
+    },
+    {
+      "avatar": "./assets/liam-hughes.svg",
+      "name": "Liam Hughes",
+      "category": "General",
+      "date": "2026-05-15T12:09:17Z",
+      "amount": -26.8,
+      "recurring": false
+    },
+    {
+      "avatar": "./assets/lily-ramirez.svg",
+      "name": "Lily Ramirez",
+      "category": "General",
+      "date": "2026-05-14T08:21:44Z",
+      "amount": 50.0,
+      "recurring": false
+    },
+    {
+      "avatar": "./assets/elevate-education.svg",
+      "name": "Elevate Education",
+      "category": "Education",
+      "date": "2026-05-13T10:45:00Z",
+      "amount": -250.0,
+      "recurring": false
+    },
+    {
+      "avatar": "./assets/techhub.svg",
+      "name": "TechHub",
+      "category": "Lifestyle",
+      "date": "2026-05-12T15:30:00Z",
+      "amount": -89.99,
+      "recurring": false
+    },
+    {
+      "avatar": "./assets/bravo-zen.svg",
+      "name": "Bravo Zen Spa",
+      "category": "Personal Care",
+      "date": "2026-05-11T11:08:12Z",
+      "amount": -35.0,
+      "recurring": false
+    },
+    {
+      "avatar": "./assets/pixel-playground.svg",
+      "name": "Pixel Playground",
+      "category": "Entertainment",
+      "date": "2026-05-10T21:23:54Z",
+      "amount": -12.99,
+      "recurring": true
+    },
+    {
+      "avatar": "./assets/serenity-spa.svg",
+      "name": "Serenity Spa & Wellness",
+      "category": "Personal Care",
+      "date": "2026-05-09T14:05:16Z",
+      "amount": -65.0,
+      "recurring": false
+    },
+    {
+      "avatar": "./assets/spark-electric.svg",
+      "name": "Spark Electric Solutions",
+      "category": "Bills",
+      "date": "2026-05-08T09:00:00Z",
+      "amount": -100.0,
+      "recurring": true
+    },
+    {
+      "avatar": "./assets/ecofuel.svg",
+      "name": "EcoFuel Energy",
+      "category": "Transportation",
+      "date": "2026-05-07T13:15:00Z",
+      "amount": -45.0,
+      "recurring": false
+    },
+    {
+      "avatar": "./assets/aqua-flow.svg",
+      "name": "Aqua Flow Utilities",
+      "category": "Bills",
+      "date": "2026-05-06T05:00:00Z",
+      "amount": -100.0,
+      "recurring": true
+    },
+    {
+      "avatar": "./assets/james-thompson.svg",
+      "name": "James Thompson",
+      "category": "General",
+      "date": "2026-05-05T18:20:00Z",
+      "amount": 320.0,
+      "recurring": false
+    },
+    {
+      "avatar": "./assets/buzz-marketing.svg",
+      "name": "Buzz Marketing Group",
+      "category": "Income",
+      "date": "2026-05-01T08:00:00Z",
+      "amount": 2500.0,
+      "recurring": false
+    },
+    {
+      "avatar": "./assets/nimbus-data.svg",
+      "name": "Nimbus Data Storage",
+      "category": "Bills",
+      "date": "2026-05-03T07:00:00Z",
+      "amount": -9.99,
+      "recurring": true
+    },
+    {
+      "avatar": "./assets/bytewise.svg",
+      "name": "ByteWise",
+      "category": "Education",
+      "date": "2026-04-28T17:42:00Z",
+      "amount": -49.0,
+      "recurring": false
+    },
+    {
+      "avatar": "./assets/fresh-cart.svg",
+      "name": "Fresh Cart Market",
+      "category": "Groceries",
+      "date": "2026-04-27T16:20:00Z",
+      "amount": -86.21,
+      "recurring": false
+    },
+    {
+      "avatar": "./assets/harmony-house.svg",
+      "name": "Harmony House Rent",
+      "category": "Bills",
+      "date": "2026-05-02T06:00:00Z",
+      "amount": -1200.0,
+      "recurring": true
+    },
+    {
+      "avatar": "./assets/metro-card.svg",
+      "name": "MetroCard Transit",
+      "category": "Transportation",
+      "date": "2026-04-24T09:15:00Z",
+      "amount": -28.0,
+      "recurring": false
+    },
+    {
+      "avatar": "./assets/cinema-city.svg",
+      "name": "Cinema City",
+      "category": "Entertainment",
+      "date": "2026-04-22T20:00:00Z",
+      "amount": -34.5,
+      "recurring": false
+    }
+  ],
+  "budgets": [
+    {
+      "category": "Entertainment",
+      "maximum": 120.0,
+      "theme": "#277C78"
+    },
+    {
+      "category": "Bills",
+      "maximum": 1500.0,
+      "theme": "#82C9D7"
+    },
+    {
+      "category": "Dining Out",
+      "maximum": 90.0,
+      "theme": "#F2CDAC"
+    },
+    {
+      "category": "Personal Care",
+      "maximum": 100.0,
+      "theme": "#626070"
+    }
+  ],
+  "pots": [
+    {
+      "name": "Savings",
+      "target": 2000.0,
+      "total": 159.0,
+      "theme": "#277C78"
+    },
+    {
+      "name": "Concert Ticket",
+      "target": 150.0,
+      "total": 110.0,
+      "theme": "#626070"
+    },
+    {
+      "name": "Gift",
+      "target": 150.0,
+      "total": 40.0,
+      "theme": "#82C9D7"
+    },
+    {
+      "name": "New Laptop",
+      "target": 1000.0,
+      "total": 10.0,
+      "theme": "#F2CDAC"
+    },
+    {
+      "name": "Holiday",
+      "target": 1440.0,
+      "total": 531.0,
+      "theme": "#826CB0"
+    }
+  ]
+}
